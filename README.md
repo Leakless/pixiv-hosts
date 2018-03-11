@@ -24,6 +24,6 @@ Paste them into hosts and it will be OK.
 以及，fuck the GFW!
 
 
-# 如何使用
+## 如何使用
 
 文件内容粘贴到hosts里就可以了。
