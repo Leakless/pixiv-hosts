@@ -1,3 +1,10 @@
+######################################################
+#img01.pixiv.net to img180.pixiv.net are the CNAME of imgsi1.pixiv.net .So I don't add them all to result.
+#If you find some URL of img**.pixiv.net could not be opened,please add the result by yourself as "210.140.131.144 img**pixiv.net".
+#How to know which subdomain? Use chrome F12.
+#How to add these results to the Hosts?Google or Baidu by yourself.
+#######################################################
+
 210.140.92.134 booth.pximg.net
 210.140.92.134 i.pximg.net
 210.140.92.134 img-novel.pximg.net
