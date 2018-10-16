@@ -1,8 +1,8 @@
 ######################################################
-#img01.pixiv.net to img180.pixiv.net are the CNAME of imgsi1.pixiv.net .So I don't add them all to result.
-#If you find some URL of img**.pixiv.net could not be opened,please add the result by yourself as "210.140.131.144 img**pixiv.net".
+#img01.pixiv.net to img180.pixiv.net are the CNAME of imgsi1.pixiv.net. So I don't add them all to result.
+#If you find some URL of img**.pixiv.net could not be opened, please add the result by yourself as "210.140.131.144 img**pixiv.net".
 #How to know which subdomain? Use chrome F12.
-#How to add these results to the Hosts?Google or Baidu by yourself.
+#How to add these results to the Hosts? Google or Baidu by yourself.
 #######################################################
 
 210.140.92.134 booth.pximg.net
@@ -20,54 +20,55 @@
 210.140.170.179 sketch.pixiv.net
 #3 IP addresses,210.140.170.179,210.140.174.37,210.140.175.130
 
-210.129.120.46 accounts.pixiv.net
-210.129.120.46 alterna.pr.pixiv.net
-210.129.120.46 app-api.pixiv.net
-210.129.120.46 books.pr.pixiv.net
-210.129.120.46 bungei.pixiv.net
-210.129.120.46 bungei-api.pixiv.net
-210.129.120.46 chat.pixiv.net
-210.129.120.46 cheek.pr.pixiv.net
-210.129.120.46 comic-api.pixiv.net
-210.129.120.46 dic.pixiv.net
-210.129.120.46 embed.pixiv.net
-210.129.120.46 en.dic.pixiv.net
-210.129.120.46 fanbox.pixiv.net
-210.129.120.46 gangan.pr.pixiv.net
-210.129.120.46 gangan.pr-pixiv.net
-210.129.120.46 genepixiv.pr.pixiv.net
-210.129.120.46 goods.pixiv.net
-210.129.120.46 hug.pr.pixiv.net
-210.129.120.46 inside.pixiv.net
-210.129.120.46 lovexxxboys.pr-pixiv.net
-210.129.120.46 kurofune.pr.pixiv.net
-210.129.120.46 m.pixiv.net
-210.129.120.46 manga.pixiv-app.net
-210.129.120.46 mint.pr.pixiv.net
-210.129.120.46 mylovestreet.pr.pixiv.net
-210.129.120.46 pay.pixiv.net
-210.129.120.46 payment.pixiv.net
-210.129.120.46 pedia.pixiv.net
-210.129.120.46 pixiv.net
-210.129.120.46 pixiv-essay.pr.pixiv.net
-210.129.120.46 pixivision.net
-210.129.120.46 pixiv-bungei.net
-210.129.120.46 pixiv-zingaro.jp
-210.129.120.46 pool.pr.pixiv.net
-210.129.120.46 recruit.pixiv.net
-210.129.120.46 sensei.pixiv.net
-210.129.120.46 ssl.pixiv.net
-210.129.120.46 spotlight.pics
-210.129.120.46 touch.pixiv.net
-210.129.120.46 www.pixiv.com
-210.129.120.46 www.pixiv.co.jp
-210.129.120.46 www.pixiv.me
-210.129.120.46 www.pixiv.net
-210.129.120.46 www.pixivision.net
-210.129.120.46 www.pr-pixiv.net
-210.129.120.46 www.spotlight.pics
-210.129.120.46 zh.pixiv.com 
-#3 IP addresses,210.129.120.46,210.129.120.50,210.129.120.52
+210.129.120.50 accounts.pixiv.net
+210.129.120.50 alterna.pr.pixiv.net
+210.129.120.50 app-api.pixiv.net
+210.129.120.50 books.pr.pixiv.net
+210.129.120.50 bungei.pixiv.net
+210.129.120.50 bungei-api.pixiv.net
+210.129.120.50 chat.pixiv.net
+210.129.120.50 cheek.pr.pixiv.net
+210.129.120.50 comic-api.pixiv.net
+210.129.120.50 dic.pixiv.net
+210.129.120.50 embed.pixiv.net
+210.129.120.50 en.dic.pixiv.net
+210.129.120.50 fanbox.pixiv.net
+210.129.120.50 gangan.pr.pixiv.net
+210.129.120.50 gangan.pr-pixiv.net
+210.129.120.50 genepixiv.pr.pixiv.net
+210.129.120.50 goods.pixiv.net
+210.129.120.50 help.pixiv.net
+210.129.120.50 hug.pr.pixiv.net
+210.129.120.50 inside.pixiv.net
+210.129.120.50 lovexxxboys.pr-pixiv.net
+210.129.120.50 kurofune.pr.pixiv.net
+210.129.120.50 m.pixiv.net
+210.129.120.50 manga.pixiv-app.net
+210.129.120.50 mint.pr.pixiv.net
+210.129.120.50 mylovestreet.pr.pixiv.net
+210.129.120.50 pay.pixiv.net
+210.129.120.50 payment.pixiv.net
+210.129.120.50 pedia.pixiv.net
+210.129.120.50 pixiv.net
+210.129.120.50 pixiv-essay.pr.pixiv.net
+210.129.120.50 pixivision.net
+210.129.120.50 pixiv-bungei.net
+210.129.120.50 pixiv-zingaro.jp
+210.129.120.50 pool.pr.pixiv.net
+210.129.120.50 recruit.pixiv.net
+210.129.120.50 sensei.pixiv.net
+210.129.120.50 ssl.pixiv.net
+210.129.120.50 spotlight.pics
+210.129.120.50 touch.pixiv.net
+210.129.120.50 www.pixiv.com
+210.129.120.50 www.pixiv.co.jp
+210.129.120.50 www.pixiv.me
+210.129.120.50 www.pixiv.net
+210.129.120.50 www.pixivision.net
+210.129.120.50 www.pr-pixiv.net
+210.129.120.50 www.spotlight.pics
+210.129.120.50 zh.pixiv.com
+#3 IP addresses,210.129.120.50,210.129.120.52,210.129.120.55
 
 210.129.120.50 oauth.secure.pixiv.net
 210.129.120.50 public-api.secure.pixiv.net
@@ -96,8 +97,6 @@
 
 210.140.131.170 s2.booth.pm
 #3 IP addresses, 210.140.131.170,210.140.131.171,210.140.131.172
-
-153.120.23.207 help.pixiv.net
 
 122.208.114.218 b.pixiv.net
 122.208.114.218 blog.pixiv.net
