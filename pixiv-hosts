@@ -3,83 +3,71 @@
 #If you find some URL of img**.pixiv.net could not be opened, please add the result by yourself as "210.140.131.144 img**pixiv.net".
 #How to know which subdomain? Use chrome F12.
 #How to add these results to the Hosts? Google or Baidu by yourself.
+#Found subdomain not listed? Create a new issue to tell me.
 #######################################################
 
-210.140.92.134 booth.pximg.net
-210.140.92.134 i.pximg.net
-210.140.92.134 img-novel.pximg.net
-210.140.92.134 img-sketch.pximg.net
-210.140.92.134 pixiv.pximg.net
-210.140.92.134 public-img-comic.pximg.net
-210.140.92.134 s.pximg.net
-#10 IP addresses,from 210.140.92.134 to 210.140.92.143
+210.140.92.138 booth.pximg.net
+210.140.92.138 i.pximg.net
+210.140.92.138 i-f.pximg.net
+210.140.92.138 img-novel.pximg.net
+210.140.92.138 img-sketch.pximg.net
+210.140.92.138 i-ogp.pximg.net
+210.140.92.138 palcy.pximg.net
+210.140.92.138 pixiv.pximg.net
+210.140.92.138 public-img-comic.pximg.net
+210.140.92.138 s.pximg.net
+210.140.92.138 tc-i.pximg.net
+210.140.92.138 vroid-hub.pximg.net
+#10 IP, from 210.140.92.138 to 210.140.92.147
 
-210.140.131.157 d.pixiv.org
-#4 IP addresses,from 210.140.131.157 to 210.140.131.159
+210.140.131.199 bungei.pixiv.net
+210.140.131.199 chat.pixiv.net
+210.140.131.199 comic-api.pixiv.net
+210.140.131.199 en.dic.pixiv.net
+210.140.131.199 errortrace.net
+210.140.131.199 fanbox.pixiv.net
+210.140.131.199 gangan.pr-pixiv.net
+210.140.131.199 zh.pixiv.com
+210.140.131.199 help.pixiv.net
+210.140.131.199 inside.pixiv.net
+210.140.131.199 lovexxxboys.pr-pixiv.net
+210.140.131.199 pay.pixiv.net
+210.140.131.199 payment.pixiv.net
+210.140.131.199 pedia.pixiv.net
+210.140.131.199 pixivision.net
+210.140.131.199 pixiv-bungei.net
+210.140.131.199 pixiv-zingaro.jp
+210.140.131.199 recruit.pixiv.net
+210.140.131.199 ssl.pixiv.net
+210.140.131.199 spotlight.pics
+210.140.131.199 touch.pixiv.net
+210.140.131.199 vroid.pixiv.net
+210.140.131.199 www.pixiv.com
+210.140.131.199 www.pixiv.me
+210.140.131.199 www.pixivision.net
+210.140.131.199 www.pr-pixiv.net
+210.140.131.199 www.spotlight.pics
+210.140.131.199 zh.pixiv.com
+#4 IP, 210.140.131.199, 210.140.131.219, 210.140.131.223, 210.140.131.226
 
-210.140.170.179 sketch.pixiv.net
-#3 IP addresses,210.140.170.179,210.140.174.37,210.140.175.130
-
-210.140.131.219 accounts.pixiv.net
 210.140.131.219 alterna.pr.pixiv.net
-210.140.131.219 app-api.pixiv.net
 210.140.131.219 books.pr.pixiv.net
-210.140.131.219 bungei.pixiv.net
-210.140.131.219 chat.pixiv.net
 210.140.131.219 cheek.pr.pixiv.net
-210.140.131.219 comic-api.pixiv.net
-210.140.131.219 dic.pixiv.net
-210.140.131.219 embed.pixiv.net
-210.140.131.219 en.dic.pixiv.net
-210.140.131.219 errortrace.net
 210.140.131.219 factory.pixiv.net
-210.140.131.219 fanbox.pixiv.net
 210.140.131.219 gangan.pr.pixiv.net
-210.140.131.219 gangan.pr-pixiv.net
 210.140.131.219 genepixiv.pr.pixiv.net
-210.140.131.219 goods.pixiv.net
-210.140.131.219 help.pixiv.net
 210.140.131.219 hug.pr.pixiv.net
-210.140.131.219 inside.pixiv.net
-210.140.131.219 lovexxxboys.pr-pixiv.net
 210.140.131.219 kurofune.pr.pixiv.net
 210.140.131.219 m.pixiv.net
 210.140.131.219 manga.pixiv-app.net
 210.140.131.219 mint.pr.pixiv.net
 210.140.131.219 mylovestreet.pr.pixiv.net
-210.140.131.219 pay.pixiv.net
-210.140.131.219 payment.pixiv.net
-210.140.131.219 pedia.pixiv.net
 210.140.131.219 pixiv.net
 210.140.131.219 pixiv-essay.pr.pixiv.net
-210.140.131.219 pixivision.net
-210.140.131.219 pixiv-bungei.net
-210.140.131.219 pixiv-zingaro.jp
 210.140.131.219 pool.pr.pixiv.net
-210.140.131.219 recruit.pixiv.net
-210.140.131.219 sensei.pixiv.net
-210.140.131.219 ssl.pixiv.net
-210.140.131.219 spotlight.pics
-210.140.131.219 touch.pixiv.net
-210.140.131.219 vroid.pixiv.net
-210.140.131.219 www.pixiv.com
-210.140.131.219 www.pixiv.co.jp
 210.140.131.219 www.pixiv.me
-210.140.131.219 www.pixiv.net
 210.140.131.219 www.pixivision.net
-210.140.131.219 www.pr-pixiv.net
-210.140.131.219 www.spotlight.pics
-210.140.131.219 zh.pixiv.com
-#3 IP addresses,210.140.131.219, 210.140.131.222, 210.140.131.224
-
-210.129.31.219 oauth.secure.pixiv.net
-210.129.31.219 public-api.secure.pixiv.net
-#2 IP addresses,210.140.131.219,210.140.131.222
-
-210.140.131.242 booth.pm
-210.140.131.242 asset.booth.pm
-210.140.131.242 s2.booth.pm
-#3 IP addresses,210.140.131.242,210.140.131.244,210.140.131.246
+#3 IP, 210.140.131.219, 210.140.131.223, 210.140.131.226
 
 210.140.131.144 comic.pixiv.net
 210.140.131.144 i1.pixiv.net
@@ -96,29 +84,89 @@
 210.140.131.144 meetup.pixiv.net
 210.140.131.144 novel.pixiv.net
 210.140.131.144 source.pixiv.net
-#4 IP addresses, 210.140.131.144,210.140.131.145,210.140.131.147,210.140.131.153
+#4 IP, 210.140.131.144, 210.140.131.145, 210.140.131.147, 210.140.131.153
 
-122.208.114.218 b.pixiv.net
-122.208.114.218 blog.pixiv.net
-122.208.114.218 developers.pixiv.net
-122.208.114.218 engineering.pixiv.net
-122.208.114.218 f.pixiv.net
-122.208.114.218 feed.pixiv.net
-122.208.114.218 p2.pixiv.net
+210.140.131.242 booth.pm
+210.140.131.242 asset.booth.pm
+210.140.131.242 s2.booth.pm
+#*.booth.pm resolved to 4 IP, 210.140.131.242, 210.140.131.244, 210.140.131.246, 210.140.131.248
 
-151.101.1.195 chatstory.pixiv.net
-#2 IP addresses,151.101.1.195,151.101.65.195
+210.129.31.219 public-api.secure.pixiv.net
+#2 IP, 210.140.131.199,210.140.131.219,210.140.131.223
+
+210.140.131.199 b.pixiv.net
+210.140.131.199 blog.pixiv.net
+210.140.131.199 engineering.pixiv.net
+210.140.131.199 feed.pixiv.net
+210.140.131.199 p2.pixiv.net
+#4 IP, 210.140.131.199, 210.140.131.227, 210.140.131.228, 210.140.131.229
+
+210.140.131.199 chatstory.pixiv.net
+#4 IP, 210.140.131.199, 210.140.131.219, 210.140.131.223, 210.140.131.226
+
+210.140.131.157 d.pixiv.org
+#4 IP, from 210.140.131.157 to 210.140.131.159
+
+104.21.235.75 i-cf.pximg.net
+#4 IP, 104.21.235.75, 104.21.235.76, 2606:4700:3038::6815:eb4b, 2606:4700:3038::6815:eb4c
+
+210.140.170.179 sketch.pixiv.net
+#3 IP, 210.140.170.179, 210.140.174.37, 210.140.175.130
+
+124.37.191.28 archive.pixiv.net
+
+125.100.191.30 fms.pixiv.net
 
 221.242.143.35 img00.pixiv.net
 
 202.181.98.117 ml.pixiv.co.jp
 
-133.242.51.190 public.pixiv.co.jp
-
 210.140.131.236 ns1.pixiv.net
 
 210.140.131.238 ns2.pixiv.net
 
-125.100.191.30 fms.pixiv.net
+133.242.51.190 public.pixiv.co.jp
 
-124.37.191.28 archive.pixiv.net
+
+######################################################
+#These record are cname.
+#######################################################
+
+104.18.30.199 accounts.pixiv.net
+#cname to accounts.pixiv.net.cdn.cloudflare.net
+
+104.18.30.199 app-api.pixiv.net
+#cname to app-api.pixiv.net.cdn.cloudflare.net
+
+52.219.0.82 dev.pixiv.net
+#cname to dev.pixiv.net.s3-website-ap-northeast-1.amazonaws.com
+
+104.18.30.199 dic.pixiv.net
+#cname to dic.pixiv.net.cdn.cloudflare.net
+
+104.18.30.199 embed.pixiv.net
+#cname to embed.pixiv.net.cdn.cloudflare.net
+
+104.18.30.199 goods.pixiv.net
+#cname to goods.pixiv.net.cdn.cloudflare.net
+
+13.225.100.75 iracon.pixiv.net
+#cname to dq5nq916rhniu.cloudfront.net
+
+104.18.30.199 market.pixiv.net
+#cname to market.pixiv.net.cdn.cloudflare.net
+
+104.18.30.199 oauth.secure.pixiv.net
+#cname to oauth.secure.pixiv.net.cdn.cloudflare.net
+
+104.18.30.199 sensei.pixiv.net
+#cname to sensei.pixiv.net.cdn.cloudflare.net
+
+74.114.154.18 times.pixiv.net
+#cname to domains.tumblr.com
+
+13.115.18.61 www.pixiv.co.jp
+#cname to hatenablog.com
+
+104.18.30.199 www.pixiv.net
+#cname to www.pixiv.net.cdn.cloudflare.net
